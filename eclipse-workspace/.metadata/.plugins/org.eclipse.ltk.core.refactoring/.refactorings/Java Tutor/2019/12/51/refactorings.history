@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Java Tutor/source/NewFile.xml&apos; to &apos;log4j2.xml&apos;" description="Rename resource &apos;NewFile.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="source/NewFile.xml" name="log4j2.xml" stamp="1576493492514" updateReferences="true"/>
+</session>

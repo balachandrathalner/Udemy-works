@@ -1,0 +1,6 @@
+03:11:16.660 [main] DEBUG Testcases.LoginApplication_POFactory - sending password
+03:11:17.196 [main] INFO  Testcases.LoginApplication_POFactory - usename password
+03:11:17.197 [main] DEBUG Testcases.LoginApplication_POFactory - will clicking the home link
+03:11:38.922 [main] INFO  Testcases.LoginApplication_POFactory - home clicked
+03:11:39.284 [main] DEBUG Testcases.LoginApplication_POFactory - sending the text 'facebook'
+03:11:39.885 [main] INFO  Testcases.LoginApplication_POFactory - 'Facebook sent to the search box

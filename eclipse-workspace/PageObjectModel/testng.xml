@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Reddif Mail">
+<parameter name="url" value="https://mail.rediff.com/cgi-bin/login.cgi"></parameter>
+
+  <test  name="Login" >
+    <classes>
+      <class name="Testcases.LoginApplication">
+      <methods>
+      <include name="Login"></include>
+      
+      </methods>
+      
+      </class>
+      
+      <class name="Testcases.LoginApplication_POFactory"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

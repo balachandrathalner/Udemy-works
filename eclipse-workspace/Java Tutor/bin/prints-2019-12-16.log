@@ -1,0 +1,9 @@
+16:49:29.669 [main] FATAL CD.Demo - this is fatal
+16:50:05.931 [main] ERROR AB.Datadriven - object is not present
+16:50:05.941 [main] FATAL AB.Datadriven - this is fatal
+16:50:30.301 [main] DEBUG CD.Demo - iam debugging demoq of cd
+16:50:30.309 [main] INFO  CD.Demo - object is present
+16:50:30.309 [main] ERROR CD.Demo - object is not present
+16:50:30.309 [main] FATAL CD.Demo - this is fatal
+16:50:44.874 [main] ERROR AB.Datadriven - object is not present
+16:50:44.882 [main] FATAL AB.Datadriven - this is fatal

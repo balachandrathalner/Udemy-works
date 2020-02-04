@@ -1,0 +1,4 @@
+16:51:00.496 [main] DEBUG CD.Demo - iam debugging demoq of cd
+16:51:00.532 [main] INFO  CD.Demo - object is present
+16:51:00.533 [main] ERROR CD.Demo - object is not present
+16:51:00.534 [main] FATAL CD.Demo - this is fatal

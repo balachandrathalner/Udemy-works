@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Strings.Inhetance&apos; to &apos;Array_prob&apos;&#x0D;&#x0A;- Original project: &apos;Java Tutor&apos;&#x0D;&#x0A;- Original element: &apos;Strings.Inhetance&apos;&#x0D;&#x0A;- Renamed element: &apos;Strings.Array_prob&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Inhetance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Strings{Inhetance.java[Inhetance" matchStrategy="1" name="Array_prob" qualified="false" references="true" similarDeclarations="false" stamp="1578503181446" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35699" started-at="2019-12-14T20:55:17Z" finished-at="2019-12-14T20:55:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35699" started-at="2019-12-14T20:55:17Z" finished-at="2019-12-14T20:55:52Z">
+      <class name="frame.TestBase">
+        <test-method status="PASS" signature="m1()[pri:0, instance:frame.TestBase@675d3402]" name="m1" is-config="true" duration-ms="43" started-at="2019-12-14T20:55:17Z" finished-at="2019-12-14T20:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="login()[pri:0, instance:frame.TestBase@675d3402]" name="login" duration-ms="35619" started-at="2019-12-14T20:55:17Z" finished-at="2019-12-14T20:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:frame.TestBase@675d3402]" name="m2" is-config="true" duration-ms="2" started-at="2019-12-14T20:55:53Z" finished-at="2019-12-14T20:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- frame.TestBase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

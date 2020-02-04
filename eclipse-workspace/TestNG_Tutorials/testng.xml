@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LOAN DEPARTMENT">
+
+<listeners>
+<listener class-name="practice.Listeners"></listener>
+</listeners>
+  
+  <parameter name="browser" value="http://www.google.com"></parameter>
+  <parameter name="balu" value="Zinga"></parameter>
+
+  <test name="car loan">
+  
+  <parameter name="f" value="xnxx"></parameter>
+  
+    <classes>
+      <class name="practice.MyTestng"/>
+    </classes>  
+    </test>
+    
+   <test name="site loan">  
+    <classes>
+        <class name="practice.siteloan"/> 
+    
+    <class name="practice.Moble"></class>
+    </classes>  
+     
+      </test> 
+      
+      <test  name="home loan "> 
+    <classes>
+    <class name="practice.Myhome">
+      <methods>
+      <exclude name="n.*"/> 
+      
+      </methods>
+      
+      
+       </class> 
+    </classes>
+    </test>
+     
+</suite> 

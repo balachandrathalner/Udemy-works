@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LOAN DEPARTMENT]">
+  <parameter name="balu" value="Zinga"/>
+  <parameter name="browser" value="http://www.google.com"/>
+  <listeners>
+    <listener class-name="practice.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="site loan(failed)">
+    <classes>
+      <class name="practice.Moble">
+        <methods>
+          <include name="beforem"/>
+          <include name="mob2"/>
+          <include name="before"/>
+          <include name="mob1"/>
+        </methods>
+      </class> <!-- practice.Moble -->
+    </classes>
+  </test> <!-- site loan(failed) -->
+</suite> <!-- Failed suite [LOAN DEPARTMENT] -->
